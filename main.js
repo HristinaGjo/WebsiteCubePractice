@@ -1,4 +1,4 @@
-const cubeContainer = document.getElementById('cubeContainer');
+/* const cubeContainer = document.getElementById('cubeContainer');
 
 cubeContainer.addEventListener('mouseenter', function() {
     this.style.backgroundColor = 'orange'; // Change the background color of the container on hover
@@ -6,7 +6,7 @@ cubeContainer.addEventListener('mouseenter', function() {
 
 cubeContainer.addEventListener('mouseleave', function() {
     this.style.backgroundColor = 'black'; // Change the background color of the container back when the mouse leaves
-});
+}); */
 
 let isMouseDown = false;
 let startX, startY;
